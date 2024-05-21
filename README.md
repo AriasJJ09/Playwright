@@ -61,7 +61,7 @@ Antes de comenzar, asegúrate de tener instalado [Node.js](https://nodejs.org/) 
       Este comando nos desplegará la interfaz en la cual podremos grabar las interacciones necesarias para nuestras pruebas al poner el link `URL`,
       y otra interfaz donde se mostrará el código de nuestra prueba, este código lo copiaremos y lo pegamos en nuestra carpeta de `tests`
 
-2. **Visualizar las prebas**:
+2. **Visualizar las pruebas**:
    - Ejecuta el siguiente comando:
      ```sh
      npx playwright test 

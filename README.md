@@ -72,4 +72,4 @@ Antes de comenzar, asegúrate de tener instalado [Node.js](https://nodejs.org/) 
      ```
 
 ## CONCLUSIONES
-A la hora de testear algunos casos de prueba, podemos visualizar que el framework playwrght nos lanza un error debido a que en casos de prueba anteriores se han modificado variables como la contraseña o ya se ha realizado un voto por un auto, esto no permite que se ejecute correctamente dicho caso de prueba
+A la hora de testear algunos casos de prueba de la pagina BuggyCars, podemos visualizar que el framework playwright nos lanza un error debido a que en casos de prueba anteriores se han modificado variables como la contraseña o ya se ha realizado un voto por un auto, esto no permite que se ejecute correctamente dicho caso de prueba y que salga un error en algunos test. 
